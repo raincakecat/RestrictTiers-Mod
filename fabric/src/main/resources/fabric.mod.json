@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "restricttiers",
+  "version": "1.0.0",
+  "name": "RestrictTiers",
+  "description": "Private on-demand restriction lookups with clickable player profiles.",
+  "environment": "client",
+  "entrypoints": { "client": ["com.raincakecat.restricttiers.fabric.RestrictTiersClient"] },
+  "contact": { "homepage": "https://restricttiers.raincakecat.com" },
+  "depends": { "fabricloader": ">=0.19.5", "minecraft": "1.21.11", "java": ">=21", "fabric-api": "*" }
+}
