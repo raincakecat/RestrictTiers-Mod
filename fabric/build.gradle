@@ -9,6 +9,9 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.13.2'
 }
 base { archivesName = 'RestrictTiers-Fabric-1.21.11' }
+jar {
+    from(rootProject.file('LICENSE')) { into 'META-INF'; rename { 'LICENSE-RestrictTiers.txt' } }
+}
 fabricApi {
     configureTests {
         createSourceSet = true

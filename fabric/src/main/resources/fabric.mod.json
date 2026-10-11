@@ -3,6 +3,7 @@
   "id": "restricttiers",
   "version": "1.0.0",
   "name": "RestrictTiers",
+  "license": "LicenseRef-RestrictTiers-Proprietary",
   "description": "Private on-demand restriction lookups with clickable player profiles.",
   "environment": "client",
   "entrypoints": { "client": ["com.raincakecat.restricttiers.fabric.RestrictTiersClient"] },

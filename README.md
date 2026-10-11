@@ -2,6 +2,10 @@
 
 Fabric client mod for Minecraft **1.21.11**. Run `/check <IGN or UUID>` or `/restrictcheck <IGN or UUID>` to get private restriction counts, a clickable website profile, and cached parsed details. No automatic checks or permission requirement.
 
+## License
+
+**All Rights Reserved.** You may install and run official, unmodified JARs on your clients and servers. Reusing, modifying, or redistributing the original code or distributing builds requires prior written permission, subject to the GitHub and third-party exceptions in [LICENSE](LICENSE). This is source-visible proprietary software. Third-party components retain their own licenses.
+
 ## Install
 
 1. Install [Fabric Loader](https://fabricmc.net/use/installer/) **0.19.5 or newer** for Minecraft **1.21.11**.
